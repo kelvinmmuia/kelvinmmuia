@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kelvinmmuia
+- 👋 Hi, I’m Kelvin Mwaka Muia
 - 👀 I’m interested in Data Science and blogging.
 - 🌱 I’m currently learning RShiny for responsive web apps.
 - 💞️ I’m open for collaboration in end-to-end data modeling projects strictly with R at the moment.
