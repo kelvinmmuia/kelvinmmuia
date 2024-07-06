@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Kelvin Mwaka Muia
 - 👀 I’m interested in Data Science and blogging.
 - 🌱 I’m currently learning RShiny for responsive web apps.
-- 💞️ I’m open to collaboration in end-to-end data modeling projects with R or Python.
+- 👨🏻‍💻 I'm open to remote roles in data science projects.
+- 💞️ I’m open to collaboration in end-to-end data science projects with R or Python.
 - 📫 Reach me through: kelvinmwaka@gmail.com
 <!---
 kelvinmmuia/kelvinmmuia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
