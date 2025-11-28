@@ -63,6 +63,6 @@ Building useful tech and data products: frontend and backend development of web-
 
 * Email: **[kelvinmwaka@gmail.com](mailto:kelvinmwaka@gmail.com)**
 * Alternate: **[kelvinmwakamuia@gmail.com](mailto:kelvinmwakamuia@gmail.com)**
-* [LinkedIn](https://www.linkedin.com/in/kelvin-mwaka-muia) / [X](https://x.com/MwakaKelvin) / [Portfolio](https://kelvinmmuia.github.io/personal-website)
+* [LinkedIn](https://www.linkedin.com/in/kelvin-mwaka-muia) / [X](https://x.com/kmwakamuia) / [Portfolio](https://kelvinmmuia.github.io/personal-website)
 
 ---
