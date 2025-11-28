@@ -45,7 +45,7 @@ Building useful tech and data products: frontend and backend development of web-
 ### ⭐ Featured (add your repo links)
 
 * https://github.com/kelvinmmuia/personal-website
-* * https://github.com/kelvinmmuia/MoviesDBapp
+* https://github.com/kelvinmmuia/MoviesDBapp
 * https://github.com/kelvinmmuia/TheOptimalStoppingProblem
 * https://github.com/kelvinmmuia/SVM-python-custom
 * https://github.com/kelvinmmuia/KPHC2019andKenyanCountiesData
