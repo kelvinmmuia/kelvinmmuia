@@ -7,7 +7,7 @@ Nairobi, Kenya 🇰🇪
 
 ### 🔭 One‑line
 
-Building useful data products: frontend and backend development of web-apps in node.js, interactive R Shiny, Streamlit, Flask, Django apps; reproducible ML pipelines (R / Python) and clean, deployable web UIs.
+Building useful tech and data products: frontend and backend development of web-apps in node.js, interactive R Shiny, Streamlit, Flask, Django apps; reproducible ML pipelines (R / Python) and clean, deployable web UIs.
 
 ### 🛠 Tech & languages
 
