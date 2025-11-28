@@ -1,4 +1,4 @@
-# Hi — I’m Kelvin Mwaka Muia 👋
+# Hi, I’m Kelvin Mwaka Muia 👋
 
 **Data Scientist • RShiny specialist • Full‑stack tinkerer**
 Nairobi, Kenya 🇰🇪
